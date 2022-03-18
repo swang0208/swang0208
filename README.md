@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swang0208
-- 👀 I’m interested in learning the basics of coding
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in learning basic web development
+- 🌱 I’m currently enrolled in The Complete 2022 Web Development Bootcamp course on Udemy
 - 💞️ I’m looking to collaborate on creating a new GitHub project
 - 📫 The best way to reach me is by email: swang0208@gmail.com
 
